@@ -1,0 +1,1 @@
+drop = obj_wings;
