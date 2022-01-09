@@ -1,4 +1,4 @@
-Heathen is a small project that I attempted to get a handle on some basic game development concepts:
+HEATHEN is a small project that I attempted to get a handle on some basic game development concepts:
 - Platforming physics
 - Implementing power-ups
 - Enemy drops and pickups
